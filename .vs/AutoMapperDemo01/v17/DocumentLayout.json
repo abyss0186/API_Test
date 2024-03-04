@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\API_test\\AutoMapperDemo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\cardparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:cardparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\studentparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:studentparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|e:\\api_test\\automapperdemo01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846963D2-F5DA-4E79-BD4E-D1DE09178109}|AutoMapperDemo01.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\Repository\\CardRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CardRepository.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\Repository\\CardRepository.cs",
+              "RelativeToolTip": "Repository\\CardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:23:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:16:32.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CardController.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Controllers\\CardController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwGkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:26:03.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardParameter.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\CardParameter.cs",
+              "RelativeDocumentMoniker": "CardParameter.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\CardParameter.cs",
+              "RelativeToolTip": "CardParameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:20:48.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAzwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:19:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T07:43:57.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T02:11:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentParameter.cs",
+              "DocumentMoniker": "E:\\API_test\\AutoMapperDemo01\\StudentParameter.cs",
+              "RelativeDocumentMoniker": "StudentParameter.cs",
+              "ToolTip": "E:\\API_test\\AutoMapperDemo01\\StudentParameter.cs",
+              "RelativeToolTip": "StudentParameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:31:10.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

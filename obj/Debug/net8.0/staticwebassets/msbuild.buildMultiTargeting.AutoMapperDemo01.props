@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutoMapperDemo01.props" />
+</Project>
